@@ -1,13 +1,13 @@
 {
-  "main.css": "/metamask-deps-explorer/static/css/main.a0683dd3.chunk.css",
-  "main.js": "/metamask-deps-explorer/static/js/main.9fac269b.chunk.js",
-  "main.js.map": "/metamask-deps-explorer/static/js/main.9fac269b.chunk.js.map",
+  "main.css": "/metamask-deps-explorer/static/css/main.8f918b79.chunk.css",
+  "main.js": "/metamask-deps-explorer/static/js/main.7a094b6f.chunk.js",
+  "main.js.map": "/metamask-deps-explorer/static/js/main.7a094b6f.chunk.js.map",
   "runtime~main.js": "/metamask-deps-explorer/static/js/runtime~main.db9cb8e6.js",
   "runtime~main.js.map": "/metamask-deps-explorer/static/js/runtime~main.db9cb8e6.js.map",
-  "static/js/2.fe5a77b2.chunk.js": "/metamask-deps-explorer/static/js/2.fe5a77b2.chunk.js",
-  "static/js/2.fe5a77b2.chunk.js.map": "/metamask-deps-explorer/static/js/2.fe5a77b2.chunk.js.map",
+  "static/js/2.62860973.chunk.js": "/metamask-deps-explorer/static/js/2.62860973.chunk.js",
+  "static/js/2.62860973.chunk.js.map": "/metamask-deps-explorer/static/js/2.62860973.chunk.js.map",
   "index.html": "/metamask-deps-explorer/index.html",
-  "precache-manifest.fe832a46284755789bdf8d68bfcce979.js": "/metamask-deps-explorer/precache-manifest.fe832a46284755789bdf8d68bfcce979.js",
+  "precache-manifest.e56c23ce43daa2e2d7a7bb173c30325a.js": "/metamask-deps-explorer/precache-manifest.e56c23ce43daa2e2d7a7bb173c30325a.js",
   "service-worker.js": "/metamask-deps-explorer/service-worker.js",
-  "static/css/main.a0683dd3.chunk.css.map": "/metamask-deps-explorer/static/css/main.a0683dd3.chunk.css.map"
+  "static/css/main.8f918b79.chunk.css.map": "/metamask-deps-explorer/static/css/main.8f918b79.chunk.css.map"
 }
